@@ -14,7 +14,7 @@ int main() {
 
   
   for(int i = 0; i < 5; ++i) {
-     printf("%d\n", values[]);
+     printf("%d\n", values[i]);
   }
   return 0;
 }
